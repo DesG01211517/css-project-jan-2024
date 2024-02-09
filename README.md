@@ -6,7 +6,6 @@ This is a website about..
 
 It will contain a variety of HTML tags and CSS rules.
 
-
 ## Built With
 
 - HTML
@@ -23,10 +22,9 @@ The basic design will look like this low fidelity wireframe.
 - [ ] About Page
 - [ ] Menu Page
 
-
 ## Contact
 
-Author: 
+Author: Desmon Garrison
 
 ## Acknowledgements
 
