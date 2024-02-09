@@ -2,7 +2,7 @@
 
 ## About
 
-This is a website about..
+This is a website about part of my journey called life.
 
 It will contain a variety of HTML tags and CSS rules.
 
@@ -20,7 +20,7 @@ The basic design will look like this low fidelity wireframe.
 
 - [ ] Home Page
 - [ ] About Page
-- [ ] Menu Page
+- [ ] gallery Page
 
 ## Contact
 
