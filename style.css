@@ -1,0 +1,28 @@
+main {
+    float:left:
+    width: 70%; 
+    background-color: #f2f2f2
+    padding; 20px;
+    
+}
+
+aside {
+    float: right;
+    width:30%; 
+    background-color: #ddd;
+    padding: 20px;
+}
+footer {
+    clear: both;
+    text-align: center;
+    margin-top: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    padding: 5px 0;
+}
