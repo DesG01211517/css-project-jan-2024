@@ -27,9 +27,23 @@ nav ul li {
     padding: 5px 0;
 }
 #button1 {
-    button1 {background-color: #555555;} /* Black */
-    button1 {font-size: 24px;}
-    button1 {width: 30%;}
-    button1 {border-radius: 12px;
+    background-color: slategray;
+    font-size: 24px;
+    width: 100px;
+    border: 7px;
+    border-radius: 12px;
+    text-align: center;
+    padding: 10px;
+
+
+}
+#button2 {
+    background-color: slategray;
+    font-size: 24px;
+    width: 100px;
+    border: 7px;
+    border-radius: 12px;
+    text-align: center;
+    padding: 10px;
 
 }
