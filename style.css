@@ -1,16 +1,16 @@
 main {
-    float:left:
+    float:left;
     width: 70%; 
-    background-color: #f2f2f2
-    padding; 20px;
+    background-color: none;
+    
     
 }
 
 aside {
     float: right;
     width:30%; 
-    background-color: #ddd;
-    padding: 20px;
+    background-color: none;
+    
 }
 footer {
     clear: both;
@@ -25,4 +25,11 @@ nav ul {
 
 nav ul li {
     padding: 5px 0;
+}
+#button1 {
+    button1 {background-color: #555555;} /* Black */
+    button1 {font-size: 24px;}
+    button1 {width: 30%;}
+    button1 {border-radius: 12px;
+
 }
